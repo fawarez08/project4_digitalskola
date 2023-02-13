@@ -1,3 +1,5 @@
+#instal library mrjob
+!pip install mrjob
 #upload file
 upload file benda.txt to local
 #code run for uploading file
